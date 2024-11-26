@@ -1,0 +1,11 @@
+Hello, world!
+what's your name?
+
+1.Contains Duplicate   	
+2.Valid Anagram   	
+3.Concatenation of Array
+4.Is Subsequence	
+5.Length of Last Word	
+6.Two Sum
+7.Replace Elements With Greatest Element On Right Side
+8.Majority Element
